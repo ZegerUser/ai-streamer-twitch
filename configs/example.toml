@@ -1,0 +1,13 @@
+[ws]
+port = 8000
+host = "127.0.0.1"
+
+[twitch]
+secret = ""
+id = ""
+update_delay = 1
+
+[buffers]
+chat = 1000
+sub = 1000
+cheer = 1000
